@@ -11,7 +11,7 @@
 
 (function() {
     'use strict';
-    // According to the risk control rules, one phone number CANNOT be used more than 5 times
+    // // According to the risk control rules, you'd better not to use ONE phone number for subscriptions more than 5 times.
     // 按照风控规则，同一手机号不得预约超过5人次
     var info = [{
         "name": '李玉兰',
