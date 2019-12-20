@@ -14,8 +14,8 @@ Some Assistants helping commemorative coins subscription through banks' websites
 ### Files 
 
 
-├── BankofChina.js: script for Bank of China (AKA: BOC)  
-├── ChinaConstructionBank.js: script for China Construction Bank (AKA: CCB)  
+├── BankofChina.js: script for **Bank of China** (AKA: BOC)  
+├── ChinaConstructionBank.js: script for **China Construction Bank** (AKA: CCB)  
 └── README.md: specialization  
 
 
@@ -31,7 +31,7 @@ Some Assistants helping commemorative coins subscription through banks' websites
 
 1. Edit `ChinaConstructionBank.js`, replace people info to subscribers' info, and modify the exchange date.  
 2. Create a script in TamperMonkey and paste the edited copy to it.  
-3. Browse the CCB's subscription website and the script will run and...     
+3. Browse the CCB's subscription website and the script will run and ...     
 4. You can click the name on the right and his/her credential number and mobile number will be insert to corresponding widget automatically.  
 
 #### BOC
@@ -41,7 +41,7 @@ Some Assistants helping commemorative coins subscription through banks' websites
 3. Browse the BOC's subscription website and click the bookmark button on the bookmarks bar and ...  
 4. You can click the name on the right and his/her credential number and mobile number will be insert to corresponding widget automatically.
 
-**For more detail, you can check [here]().**
+**See [here]() for more operation detail and effect.**
 
 ### Contribution
 - If you like this repo, please star it.
