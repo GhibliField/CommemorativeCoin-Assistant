@@ -4,7 +4,6 @@
 
 # CommemorativeCoin-Assistant
 
-[ToC]
 
 ### Description
 
