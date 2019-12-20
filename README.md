@@ -40,6 +40,7 @@ Some Assistants helping commemorative coins subscription through banks' websites
 3. Browse the BOC's subscription website and click the bookmark button on the bookmarks bar and ...  
 4. You can click the name on the right and his/her credential number and mobile number will be insert to corresponding widget automatically.
 
+**Attention: According to the risk control rules, you'd better not to use ONE phone number for subscriptions more than 5 times.**
 **See [here]() for more operation detail and effect.**
 
 ### Contribution
