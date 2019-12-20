@@ -4,7 +4,7 @@
 
 # CommemorativeCoin-Assistant
 
-[TOC]
+[ToC]
 
 ### Description
 
@@ -14,7 +14,7 @@ Some Assistants helping commemorative coins subscription through banks' websites
 ### Files 
 
 
-├── BankofChina.js: script for Bank of China (AKA: BOC)
+├── BankofChina.js: script for Bank of China (AKA: BOC)  
 ├── ChinaConstructionBank.js: script for China Construction Bank (AKA: CCB)  
 └── README.md: specialization  
 
@@ -22,26 +22,26 @@ Some Assistants helping commemorative coins subscription through banks' websites
 
 ### Environment
 
-- Google Chrome or Firefox)
-- TamperMonkey (for running on CCB's website)
+- **Google Chrome** or **Firefox**
+- **TamperMonkey** (for running on CCB's website)
 
 ### HOW-TO
 
 #### CCB
 
-1. Edit ChinaConstructionBank.js, replace people info to subscribers' info, and modify the exchange date.  
+1. Edit `ChinaConstructionBank.js`, replace people info to subscribers' info, and modify the exchange date.  
 2. Create a script in TamperMonkey and paste the edited copy to it.  
 3. Browse the CCB's subscription website and the script will run and...     
 4. You can click the name on the right and his/her credential number and mobile number will be insert to corresponding widget automatically.  
 
 #### BOC
 
-1. Edit BankofChina.js, replace people info to subscribers' info, and then arrange all the codes in one line only. 
-2. Open Chrome or Firefox, create a bookmark(page) on the bookmarks bar, place the one-lined script to `URL`(Chrome) or `Location`(Firefox) and save.
-3. Browse the BOC's subscription website and click the bookmark button on the bookmarks bar and..  
+1. Edit `BankofChina.js`, replace people info to subscribers' info, and then arrange all the codes in one line only.  
+2. Open Chrome or Firefox, create a bookmark(page) on the bookmarks bar, place the one-lined script to `URL`(Chrome) or `Location`(Firefox) and save.  
+3. Browse the BOC's subscription website and click the bookmark button on the bookmarks bar and ...  
 4. You can click the name on the right and his/her credential number and mobile number will be insert to corresponding widget automatically.
 
-*For more detail, you can check (here)[].*
+**For more detail, you can check [here]().**
 
 ### Contribution
 - If you like this repo, please star it.
