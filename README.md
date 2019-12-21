@@ -7,7 +7,7 @@
 
 ### Description
 
-CommemorativeCoin-Assistant is a repository of some assistants helping subscribe commemorative coins through banks' websites. Those script can help speed up the subscribing process, especially can automatically fill up some necessary information, including name, phone number and ID card number.
+CommemorativeCoin-Assistant is a repository of some assistants helping subscribe commemorative coins through banks' websites. Those scripts can help speed up the subscribing process, especially can automatically fill up some necessary information, including name, phone number, and ID card number.
 
 
 ### Files 
