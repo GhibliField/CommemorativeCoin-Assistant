@@ -3,7 +3,7 @@
 
 
 # CommemorativeCoin-Assistant
-![](https://img.shields.io/badge/language-python-international.svg?style=plastic)
+![](https://img.shields.io/badge/language-javascript-international.svg?style=plastic)
 
 ### Description
 
