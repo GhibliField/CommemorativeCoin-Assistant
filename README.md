@@ -7,7 +7,7 @@
 
 ### Description
 
-CommemorativeCoin-Assistant is a repository of some assistants helping subscribe commemorative coins through banks' websites. Those scripts can help speed up the subscribing process, especially can automatically fill up some necessary information, including name, phone number, and ID card number.
+CommemorativeCoin-Assistant is a repository of some assistants helping subscribe commemorative coins through :bank:banks' websites. Those scripts can help speed up the subscribing process, especially can automatically fill up some necessary information, including name, phone number, and ID card number.
 
 
 ### Files 
@@ -22,7 +22,7 @@ CommemorativeCoin-Assistant is a repository of some assistants helping subscribe
 ### Environment
 
 - **Google Chrome** or **Firefox**
-- **TamperMonkey** (for running on CCB's website)
+- :speak_no_evil:　**TamperMonkey** (for running on CCB's website)
 
 ### HOW-TO
 
@@ -44,7 +44,7 @@ CommemorativeCoin-Assistant is a repository of some assistants helping subscribe
 **See [here](https://kn0wh0.github.io/2019/12/21/%E7%BA%AA%E5%BF%B5%E5%B8%81%E9%A2%84%E7%BA%A6%E8%BE%85%E5%8A%A9%E8%84%9A%E6%9C%AC/) for more operation detail and effect.**
 
 ### Contribution
-- If you like this repo, please star it.
+- If you like this repo, :sparkling_heart:　please star:star2: it.
 - If you have any problem, you may create an issue, and I'll check it out ASAP.
 - If you'd love to create another script for other banks, or the xpath of those widgets changed, you're welcome to:
   - 1. fork the repository
